@@ -1,0 +1,20 @@
+body, html {
+    height:100% ;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   background-color: rgb(120, 126, 123);
+}
+.row{
+    width:700px;
+    margin-bottom: 100px;
+}
+.color{
+    width:150px;
+}
+.test{
+    font-size: 60px;
+    color: black;
+    text-align: center;
+}
